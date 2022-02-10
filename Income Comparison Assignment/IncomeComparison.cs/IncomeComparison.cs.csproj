@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A1D79AD1-0B67-4806-A9DF-D6C7435C31B7}</ProjectGuid>
+    <ProjectGuid>{EC3FD2FA-AC0D-4A91-ADF2-A1F0CD15255D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>MethodAssignment.cs</RootNamespace>
-    <AssemblyName>MethodAssignment.cs</AssemblyName>
+    <RootNamespace>IncomeComparison.cs</RootNamespace>
+    <AssemblyName>IncomeComparison.cs</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Method.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
