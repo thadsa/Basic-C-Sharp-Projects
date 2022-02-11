@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("tryCatch.cs")]
+[assembly: AssemblyTitle("Constructor.cs")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("tryCatch.cs")]
+[assembly: AssemblyProduct("Constructor.cs")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("e4ac3ecb-53b3-4464-a7f8-8b7ebcf521ce")]
+[assembly: Guid("3a0133e5-2f69-4d78-86a9-0c488fdffbd7")]
 
 // Version information for an assembly consists of the following four values:
 //
