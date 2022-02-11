@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Constructor.cs")]
+[assembly: AssemblyTitle("String Assignment Submission")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Constructor.cs")]
+[assembly: AssemblyProduct("String Assignment Submission")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("3a0133e5-2f69-4d78-86a9-0c488fdffbd7")]
+[assembly: Guid("5030a584-34a9-4874-bd56-6acfff41451f")]
 
 // Version information for an assembly consists of the following four values:
 //

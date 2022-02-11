@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3A0133E5-2F69-4D78-86A9-0C488FDFFBD7}</ProjectGuid>
+    <ProjectGuid>{5030A584-34A9-4874-BD56-6ACFFF41451F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Constructor.cs</RootNamespace>
-    <AssemblyName>Constructor.cs</AssemblyName>
+    <RootNamespace>String_Assignment_Submission</RootNamespace>
+    <AssemblyName>String Assignment Submission</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Construct.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
