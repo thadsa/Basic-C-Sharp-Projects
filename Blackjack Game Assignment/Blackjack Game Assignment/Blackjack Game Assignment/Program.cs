@@ -8,8 +8,9 @@ namespace Blackjack_Game_Assignment
 {
     internal class Program
     {
-        static void Main(string[] args)
-        {
+        static void Main(string[] args);
+    }
+    
             class ExceptionEntity
         {
             public int Id { get; set; }
@@ -18,5 +19,4 @@ namespace Blackjack_Game_Assignment
             public DateTime TimeStamp { get; set; }
         }
     }
-    }
-}
+    
