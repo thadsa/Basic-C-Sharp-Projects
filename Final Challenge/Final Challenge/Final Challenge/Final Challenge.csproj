@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3182EC12-344D-44B5-A8EA-A1EAC03519FA}</ProjectGuid>
+    <ProjectGuid>{4BDE6508-CFB9-4CA9-8070-95E998714A25}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Blackjack_Game_Assignment</RootNamespace>
-    <AssemblyName>Blackjack Game Assignment</AssemblyName>
+    <RootNamespace>Final_Challenge</RootNamespace>
+    <AssemblyName>Final Challenge</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
