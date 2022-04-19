@@ -1,12 +1,15 @@
 # Basic-C-Sharp-Projects
 C# Projects
+
 These are some small projects I made using C# and the .NET Framework in Visual Studio.
 
 Projects
+
 Car Insurance Quote
 Blackjack Console Game
 Income Comparison Console App
 Shipping Quote Console App
+
 Car Insurance Quote
 This project serves as an online quote tool for a car insurance company. The user can enter in their information and get an instant quote that tells them their monthly price.
 
